@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hariprasath9384
+- 👋 Hi, I’m @Hari Prasath
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently Completed My Graduation 
 - 💞️ I’m looking to collaborate on web developers 
